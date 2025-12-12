@@ -13,3 +13,6 @@ Permite revisar el código, discutir cambios y ejecutar tests antes de integrar 
 
 **Desventajas:**
 - Puede ralentizar el proceso si la revisión tarda mucho.
+# GitLab Info (Conflicto)
+GitLab es una herramienta open source para el ciclo de vida DevOps.
+(Este archivo ha sido creado directamente en main).
